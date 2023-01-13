@@ -7,3 +7,6 @@ It's coming up tomorrow when I Learn HTML and CSS with Tanay Pratap live on Yout
 For now, I know:
 
 1. JavaScript
+1. Node JS
+1. Repl.it
+1. CHALK 
